@@ -1,0 +1,13 @@
+git pull
+git push
+git commit --amend
+git merge
+git branch
+git set -upstream branch
+git switch
+git add
+git list 
+git log 
+git status
+git init
+
